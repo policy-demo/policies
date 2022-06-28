@@ -1,4 +1,4 @@
-# policies
+# Policy Rules
 
 Demo Repository to test Policy Rules.
 
